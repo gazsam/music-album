@@ -1,0 +1,9 @@
+applications:
+- name: music-albums
+  memory: 256M
+  instances: 1
+  path: ./target/SpringBootJPA-0.0.1-SNAPSHOT.jar
+#  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  services:
+    music-mysql-db:
+      type: mysql
