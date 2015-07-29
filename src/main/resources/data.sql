@@ -3,4 +3,3 @@ insert into album (id,title,artist,release_year) values (2, 'Bad', 'Michael Jack
 insert into album (id,title,artist,release_year) values (3, 'Dangerous', 'Michael Jackson', '1991');
 insert into album (id,title,artist,release_year) values (4, 'History', 'Michael Jackson', '1995');
 insert into album (id,title,artist,release_year) values (5, 'Off The Wall', 'Michael Jackson', '1979');
-insert into album (id,title,artist,release_year) values (6, 'Black', 'Michael Jackson', '1999');
