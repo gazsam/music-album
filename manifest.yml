@@ -5,5 +5,5 @@ applications:
   path: ./target/SpringBootJPA-0.0.1-SNAPSHOT.jar
 #  buildpack: https://github.com/cloudfoundry/java-buildpack.git
   services:
-    music-mysql-db:
+    ${name}-mysql-db:
       type: mysql
