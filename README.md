@@ -4,4 +4,5 @@ The following demo shows how to bind to a MYSQL service from a data bound Spring
 This ensures you don't have to write any code to retrieve the bound data source connection details as 
 spring auto configures this for you using spring cloud service connector library.
 
+Test
 
